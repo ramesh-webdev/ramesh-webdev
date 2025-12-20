@@ -1,9 +1,28 @@
-Full-Stack Developer specializing in MERN, REST APIs, and Real-Time Applications.
+# Hi, I'm Ramesh S 👋
 
-I build and fix production-ready web applications:
-- Backend APIs & database issues
-- Real-time features (chat, notifications)
-- Authentication & role-based systems
-- Bug fixing and performance improvements
+Full-Stack Developer focused on building, fixing, and improving production-ready web applications using the MERN stack.
 
-Tech: React, Node.js, Express, MongoDB, Socket.IO, JWT
+I help startups and businesses with:
+- Backend & REST API development using Node.js and Express
+- Debugging and fixing issues in existing applications
+- Adding real-time features like chat, notifications, and live updates
+- Authentication, authorization, and role-based access control
+- Improving performance, code structure, and reliability
+
+## 🛠 Tech Stack
+- Frontend: React.js, JavaScript (ES6+), HTML, CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Real-Time: Socket.IO
+- Auth & Security: JWT
+- Tools: Git, GitHub, REST APIs
+
+## 📌 What You’ll Find Here
+- Real-world MERN stack projects
+- Backend-focused applications with clean architecture
+- Real-time features implemented from scratch
+- API projects and refactors based on real use cases
+
+## 📫 Contact
+- GitHub: https://github.com/rameshsr301
+- Open to freelance and contract opportunities
