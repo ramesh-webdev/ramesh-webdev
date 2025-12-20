@@ -24,5 +24,6 @@ I help startups and businesses with:
 - API projects and refactors based on real use cases
 
 ## 📫 Contact
-- GitHub: https://github.com/rameshsr301
+- GitHub: https://github.com/ramesh-webdev
+- Email : rameshsr301@gmail.com
 - Open to freelance and contract opportunities
