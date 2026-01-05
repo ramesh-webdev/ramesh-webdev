@@ -25,4 +25,4 @@ I’ve contributed to SaaS-style applications involving campaign workflows, mess
 - Backend-heavy MERN projects
 - API-first application structures
 - Real-time system implementations
-- Refactors and improvements based on real use cases
+- Refactors and improvements based on real use cases.
