@@ -1,6 +1,6 @@
 # Hi, I'm Ramesh S 👋
 
-Full-Stack Developer working on backend-focused web applications using the MERN stack.
+Full-Stack Web Developer working on backend-focused web applications using the MERN stack.
 
 My work involves building and maintaining production systems where reliability, data flow, and scalability matter more than surface-level UI.
 
