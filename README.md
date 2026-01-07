@@ -14,7 +14,7 @@ My work involves building and maintaining production systems where reliability, 
 I’ve contributed to SaaS-style applications involving campaign workflows, messaging systems, and multi-user platforms.
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, JavaScript (ES6+), HTML, CSS  
+- **Frontend:** React.js, JavaScript (ES6+), HTML, CSS, Bootstrap
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Real-Time:** Socket.IO  
