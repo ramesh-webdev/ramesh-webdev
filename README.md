@@ -1,4 +1,4 @@
-# Hi, I'm Ramesh S 👋
+# Hi, I'm Ram 👋
 
 Full-Stack Web Developer working on backend-focused web applications using the MERN stack.
 
