@@ -5,7 +5,7 @@ Full-Stack Web Developer working on backend-focused web applications using the M
 My work involves building and maintaining production systems where reliability, data flow, and scalability matter more than surface-level UI.
 
 ## What I work on
-- Backend services and REST APIs using Node.js and Express
+- Backend services and REST API's using Node.js and Express
 - Authentication and role-based access control
 - Real-time features such as notifications and live updates
 - Data modeling and performance optimization with MongoDB
